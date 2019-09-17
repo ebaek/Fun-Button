@@ -5,4 +5,4 @@
 
 ### Objectives
 * Create fun button that toggles app state (only toggles when the area surrounding the button is clicked) 
-* Refresher on CSS transitions and delay
+* Refresher on CSS transitions and delay (render background with random colors)
